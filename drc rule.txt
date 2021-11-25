@@ -1,0 +1,49 @@
+
+
+
+min poly overlap 0.2um
+
+nimp poly overlap 0.2um
+
+pimp 0.2um
+
+cont width 0.23um 
+cont cont 0.25
+
+cont跟其他要距離0.12um以上
+
+min nwell overlap pmosdiff 0.5um
+
+over nmos 0.43um
+
+nwell nimpdiff 0.25um overlap
+
+
+poly overlap 0.2um
+
+min space between me1 region is 0.24um
+
+no contact on gate
+
+min diffusion cont to poly  0.14um
+
+metal width<10um
+
+nell nell 1.6u
+
+min metal width 0.24um
+m2  0.27u
+min diff to poly is 0.1u 
+
+diff diff 0.3u
+min space between two active region is 0.3um
+poly poly 0.25um
+
+via 0.25*0.25
+
+0.12 vdd gnd nimp pimp
+
+提醒 : 只要layout電路有做更動，一定要照 DRC→LVS→PEX 步驟
+重做。
+
+從lvs的錯誤訊息中，我記得上面的數值還是文字 你用滑鼠點二下，然後你的layout圖有問題的那一層就會反白辣= =
