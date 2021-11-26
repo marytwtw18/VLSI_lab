@@ -5,7 +5,11 @@
 等等是需要trade off的(效能列入評分)
 
 lab1:inverter
+
 lab2:nand3、nor3、full adder
+
 lab3:D flipflop、4 bit counter、BCD counter
+
 lab4:4 bit carry ripple adder、4 bit carry skip adder、4:1 MUX、dynamic inverter
+
 lab5:shift register、shift register based multiplier、array structure multiplier
