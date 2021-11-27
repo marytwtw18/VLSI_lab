@@ -1,8 +1,7 @@
 # VLSI_lab
 
-交大電機闕和鳴老師的lab class，課程內容每次有幾題layout作業
-，熟悉CAD tool的操作及使用，並且了解設計之timing、area、power
-等等是需要trade off的(效能列入評分)
+課程內容每次有幾題layout作業，熟悉CAD tool的操作及使用，
+並且了解設計之timing、area、power等等是需要trade off的(效能列入評分)
 
 lab1:inverter
 
